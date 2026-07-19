@@ -5,6 +5,9 @@ target = "~/.cli/bin"
 ["Bahaaio/pomo"]
 asset_filters = ["tar.gz"]
 
+["matthart1983/diskwatch"]
+asset_filters = ["linux-x86_64.tar.gz"]
+
 ["alexpasmantier/television"]
 asset_filters = ["gnu.tar.gz"]
 
@@ -26,3 +29,4 @@ asset_filters = ["gnu.tar.gz"]
 ["thewizardshell/froggit"]
 ["programmersd21/flow"]
 ["wilfredinni/noodle"]
+["gnomeria/usbtree"]
