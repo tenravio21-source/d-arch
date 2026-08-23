@@ -3,7 +3,7 @@ require("real-icons"):setup({
 	packs = {
 		["flow-deep"] = {
 			type = "vscode",
-			path = "~/.vscode/extensions/thang-nm.flow-icons-2.0.9",
+			path = "~/.config/yazi/extensions/thang-nm.flow-icons-2.0.9",
 			theme = "flow-deep",
 		},
 	},
