@@ -2,6 +2,8 @@ hl.config({
 	input = {
 		kb_layout = "us",
 
+		kb_options = "compose:ralt",
+
 		-- Change speed of keyboard repeat.
 		repeat_rate = 40,
 		repeat_delay = 250,
